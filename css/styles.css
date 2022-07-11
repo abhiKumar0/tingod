@@ -230,8 +230,12 @@ p {
         font-size: 1.7rem;
     }
 
-    .big-heading .pricing-heading{
+    .pricing-heading{
         font-size: 2rem;
+    }
+
+    .big-heading {
+        font-size: 1.8rem;
     }
 
     .title-image{
